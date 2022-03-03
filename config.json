@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.me",
-	"port": "25565",
+	"ip":"HelixRo.aternos.me",
+	"port": "45791",
 	"name": "NRBot",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
